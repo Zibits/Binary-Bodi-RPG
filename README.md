@@ -1,6 +1,6 @@
 # Binary Bodi. 
  
- binarybodi.xyz
+ https://binarybodi.xyz
  
 ## Description
 An IRL-RPG Comics monitored through Syndicate Game Pass. 
