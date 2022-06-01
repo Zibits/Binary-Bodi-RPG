@@ -22,6 +22,14 @@ An IRL-RPG Comics monitored through Syndicate Game Pass.
 
  - 0x3043 - Lead
 
+## Implementation Details
+## Gurantees
+## Functionality 
+## Caveats
+## Documentation
+## Running the tests
+## Running the benchmarks
+## Basic Usage
 
 ## License
 
