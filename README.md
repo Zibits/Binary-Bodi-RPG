@@ -18,7 +18,7 @@ An IRL-RPG Comics monitored through Syndicate Game Pass.
 - [Running the benchmarks](#benchmarks)
 - [Contributing](#contributing)
 - [License](#license)
-- [Developers] (#dev)
+- [Developers](#dev)
 
 
 ## Key Features
