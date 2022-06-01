@@ -1,29 +1,28 @@
 # {Project Name}
-
+ Binary Bodi. 
 ## Description
+An IRL-RPG Comics monitored through Syndicate Game Pass. 
 
-{project description}
 
 ## Key Features
 
- - {Feature01}
- - {Feature02}
- - {Feature03}
- - {Feature04}
+ - Real World with immense gameplay.
+ - Rewards and Loyality points
+ - Unlockable contents
+ - Physical Redemption
  
 ## Controls
 
- - {ControlsScheme}
+ - Multiple Choice Input
+ - Optional Input
 
 ## Developers
 
- - {Dev01} - {Role(s)}
- - {Dev02} - {Role(s)}
- - {Dev03} - {Role(s)}
- - {Dev04} - {Role(s)}
+ - 0x3043 - Lead
+
 
 ## License
 
 This project is licensed under an unmodified MIT license, which is an OSI-certified license that allows static linking with closed source software. Check [LICENSE](LICENSE) for further details.
 
-{AdditionalLicenses}
+
