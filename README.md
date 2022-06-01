@@ -1,5 +1,5 @@
-# {Project Name}
- Binary Bodi. 
+# Binary Bodi. 
+ 
 ## Description
 An IRL-RPG Comics monitored through Syndicate Game Pass. 
 
