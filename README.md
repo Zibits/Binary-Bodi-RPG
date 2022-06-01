@@ -6,6 +6,23 @@
 ## Description
 An IRL-RPG Comics monitored through Syndicate Game Pass. 
 
+
+## Table of Contents
+
+- [Background](#background)
+- [Key Features](#feature)
+- [Basic Usage](#usage)
+- [Controls](#controls)
+- [Implementation Details](#specs)
+- [Gurantees](#gurantee)
+- [Functionality](#audits)
+- [Running the Tests](#test)
+- [Running the benchmarks](#benchmarks)
+- [Contributing](#contributing)
+- [License](#license)
+- [Developers](#dev)
+
+
 ## Technology Stack & Tools
 
 - Solidity (Programming language for writing smart sontracts)
@@ -22,24 +39,6 @@ An IRL-RPG Comics monitored through Syndicate Game Pass.
 - Install NodeJS, should work with any node version below 16.5.0
 - Install Truffle, In your terminal, you can check to see if you have truffle by running truffle version. To install truffle run npm i -g truffle. Ideal to have truffle version 5.4 to avoid dependency issues.
 - Install Ganache-cli. Install ganache globally by running npm install -g ganache-cli in your terminal
-
-
-## Table of Contents
-
-- [Background](#background)
-- [Key Features](#feature)
-- [Basic Usage](#usage)
-- [Controls](#controls)
-- [Implementation Details](#specs)
-- [Gurantees](#gurantee)
-- [Functionality](#audits)
-- [Running the Tests](#test)
-- [Running the benchmarks](#benchmarks)
-- [Contributing](#contributing)
-- [License](#license)
-- [Developers](#dev)
-- [Tech Stack](#tech)
-
 
 ## Key Features
 
